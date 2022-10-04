@@ -1,0 +1,26 @@
+{
+  "name": "api-jogos-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leosaor/api-jogos-mongodb.git"
+  },
+  "keywords": [],
+  "author": "leosaor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leosaor/api-jogos-mongodb/issues"
+  },
+  "homepage": "https://github.com/leosaor/api-jogos-mongodb#readme",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.6.4"
+  }
+}
